@@ -14,15 +14,15 @@ import {
   useColorModeValue,
   VStack,
   Wrap,
-  WrapItem,
+  WrapItem
 } from "@chakra-ui/react";
 import React from "react";
 import { FaGithub, FaLinkedinIn, FaTelegramPlane } from "react-icons/fa";
-import Card from "../components/card";
-import Section from "../components/section";
+import Card from "../components/Card";
+import Section from "../components/Section";
 import ToggleDarkModeButton from "../components/ToggleDarkmodeButton";
-
 import resume from "../data/resume";
+
 
 export default function Index() {
   return (
