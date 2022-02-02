@@ -46,7 +46,7 @@ export default function Index() {
             {resume.education.map((education) => (
               <Education key={education.link} props={education} />
             ))}
-          </Section> */}
+          </Section>
           <Footer />
         </VStack>
       </Container>
