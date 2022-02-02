@@ -175,8 +175,8 @@ const Footer = () => (
   <VStack w="full" spacing={6}>
     <Divider />
     <ContactLinks />
-    <Link href={"https://github.com/kodydeda4/react-kodydeda"}>
-      <Text fontSize="sm">&copy; {new Date().getFullYear()} Kody Deda.</Text>
+    <Link href={"https://github.com/ethancook6151/ethancook"}>
+      <Text fontSize="sm">&copy; {new Date().getFullYear()} Ethan Cook.</Text>
     </Link>
   </VStack>
 );
