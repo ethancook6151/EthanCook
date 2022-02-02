@@ -18,8 +18,8 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { FaGithub, FaLinkedinIn, FaTelegramPlane } from "react-icons/fa";
-import Card from "../components/Card";
-import Section from "../components/Section";
+import Card from "../components/card";
+import Section from "../components/section";
 import ToggleDarkModeButton from "../components/ToggleDarkmodeButton";
 
 import resume from "../data/resume";
@@ -32,7 +32,7 @@ export default function Index() {
           <Header />
           <Profile />
           <About />
-          {/* <Section title="Experience">
+          <Section title="Experience">
             {resume.experience.map((experience) => (
               <Experience key={experience.title} props={experience} />
             ))}
