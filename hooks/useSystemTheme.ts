@@ -1,9 +1,9 @@
 import { extendTheme } from "@chakra-ui/react";
 
-export default function useAppTheme() {
+export default function useSystemTheme() {
     return extendTheme({
-      config: {
-        useSystemColorMode: true,
-      },
+        config: {
+            useSystemColorMode: true,
+        },
     });
-  }
+}

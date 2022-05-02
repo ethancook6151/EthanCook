@@ -1,7 +1,7 @@
 const resume = {
   name: "Ethan Cook",
   title: "Title",
-  avatar: "https://i1.sndcdn.com/artworks-000140162979-8n10yf-t500x500.jpg",
+  avatar: "https://www.google.com/search?q=Ethan+cook+UCNW&tbm=isch&ved=2ahUKEwiF09OU9cH3AhXGFFkFHYfFAzMQ2-cCegQIABAA&oq=Ethan+cook+UCNW&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BAgAEB46BAgAEBhQAFiMBWCcBmgAcAB4AIABQ4gBpwKSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=8mFwYoWSOMap5NoPh4uPmAM&bih=944&biw=1531&rlz=1C5CHFA_enUS985US985&hl=en#imgrc=NtrteZ3EQFwHOM",
   description:
     "Description. Still needs to be updated!",
   skills: ["C#", "Dotnet", "AI"],
@@ -12,11 +12,10 @@ const resume = {
   },
   experience: [
     {
-      title: "iOS Developer",
-      description: "Dealerware - Austin TX",
-      timeline: "July 12, 2021 - Present",
-      icon: "https://live.staticflickr.com/65535/51846245317_53b767d1e0_b.jpg",
-      link: "https://www.dealerware.com",
+      title: "Graduate Teaching Assisant",
+      description: "UNCW - Wilmington NC",
+      timeline: "August 1, 2022 - Present",
+      link: "https://uncw.edu/",
     },
   ],
   projects: [

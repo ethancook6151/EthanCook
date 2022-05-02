@@ -62,8 +62,7 @@ const ContactLinks = () => (
     <Link href={resume.urls.linkedin}>
       <IconButton aria-label="LinkedIn" icon={<FaLinkedinIn />} />
     </Link>
-    <Link href={`mailto:${resume.urls.email}`}>
-      <IconButton aria-label="Email" icon={<FaTelegramPlane />} />
+    <Link href={`mailto:${resume.urls.email}`}><IconButton aria-label="Email" icon={<FaTelegramPlane />} />
     </Link>
   </HStack>
 );
