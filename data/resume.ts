@@ -20,6 +20,11 @@ const resume = {
   ],
   projects: [
     {
+      title: "Analysis and survey of Auto Machine Learning (AutoML) for Computer Vision-based Gender Recognition",
+      description: "Master's thesis to answer the questions of: How does AutoML compare with hand-tuned deep learning models in terms of performance? How sensitive to algorithm bias is AutoML? Is AutoML a solution to reduce or remove algorithm bias due to systemic racism?  ",
+      tags: ["Azure Custom Vision"],
+    },
+    {
       title: "Robotics",
       description: "Sensing tennis ball then picking it up with UR5 robot",
       tags: ["Python"],
