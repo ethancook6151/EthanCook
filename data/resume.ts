@@ -41,7 +41,7 @@ const resume = {
       timeline: "Spring 2018 - Fall 2021",
       icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoLww0n0AakUUq948DChg7igCsEG3NOQozmfU5n6lZstXNaTPtCKwInmW9CAN-sHXHBM&usqp=CAU",
       link: "https://uncw.edu",
-    },ß
+    },
   ],
 };
 
