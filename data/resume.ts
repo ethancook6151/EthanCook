@@ -8,7 +8,7 @@ const resume = {
   urls: {
     github: "https://github.com/ethancook6151",
     linkedin: "https://www.linkedin.com/in/kodydeda4/",
-    email: "kodydeda4@gmail.com",
+    email: "etc6151uncw@gmail.com",
   },
   experience: [
     {
