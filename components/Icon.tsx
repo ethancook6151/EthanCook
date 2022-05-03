@@ -1,6 +1,6 @@
 import { Image } from "@chakra-ui/react";
 
-export default function Icon({ src }) {
+export default function Icon({ src = "/Images/Ethan.jpg" }) {
   return (
     <Image
       src={src}
