@@ -1,7 +1,7 @@
 const resume = {
   name: "Ethan Cook",
   title: "Software Developer",
-  avatar: "https://www.flickr.com/photos/195546283@N04/52046468009/in/dateposted-public/",
+  avatar: "https://ibb.co/D4qdkZZ",
   description:
     "",
   skills: ["Python", "Java", "Swift", "PHP", "HTML", "C#", ".Net", "JavaScript"],
